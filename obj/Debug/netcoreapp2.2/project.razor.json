@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\Michaël\\OneDrive\\TM\\1819\\HBO5\\Prog 5\\ASP.NET CORE\\Proj\\webappcli\\webappcli.csproj",
+  "TargetFramework": "netcoreapp2.2",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "MVC-2.1",
+    "LanguageVersion": "2.1",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-2.1"
+      }
+    ]
+  }
+}
